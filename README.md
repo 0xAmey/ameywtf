@@ -1,8 +1,8 @@
-### Hello there
+### Hello there, I'm Amey
 
-Full stack crypto dev wannabe 
+- Full stack crypto dev wannabe 
 
-Currently learning through Solidity docs, CS50 and Nand2Tetris
+- Currently learning through Solidity docs, CS50 and Nand2Tetris
 
 <!--
 **0xamey/0xAmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
