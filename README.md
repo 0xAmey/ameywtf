@@ -1,6 +1,6 @@
 ### Hello there
 
-I'm Amey a full stack crypto dev wannabe 
+wannabe shadowy super coder
 
 
 <!--
