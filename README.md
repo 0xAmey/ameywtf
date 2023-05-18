@@ -2,8 +2,6 @@
 
 wannabe shadowy super coder
 
-current stack: NextJs, Solidity, Python, C++ for competitive programming, learning ML and math.
-
 <!--
 **0xamey/0xAmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
